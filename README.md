@@ -1,2 +1,6 @@
 # ML_Models
-Implementation of Machine Learning Models 
+
+
+In this notebook we will implement the regression model using gradient descent .
+
+
